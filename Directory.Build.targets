@@ -1,0 +1,13 @@
+<Project>
+  <!--
+    CMake writes CMAKE_INTDIR="Debug". Visual Studio 2022 IntelliSense treats the
+    quote as the start of a string and then reports E0020 for names in the file.
+  -->
+  <Target Name="FixCmakeIntDirForIntelliSense" BeforeTargets="GetClCommandLines" Condition="'$(DesignTimeBuild)' == 'true'">
+    <ItemGroup>
+      <ClCompile>
+        <PreprocessorDefinitions>$([System.String]::Copy('%(PreprocessorDefinitions)').Replace('"', ''))</PreprocessorDefinitions>
+      </ClCompile>
+    </ItemGroup>
+  </Target>
+</Project>

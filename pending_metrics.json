@@ -1,0 +1,56 @@
+[
+  {
+    "time": "2026-09-29 15:49:43",
+    "process_name": "VsDebugConsole.exe",
+    "window_title": "C:\\Users\\user\\source\\repos\\TestCPP\\build\\Debug\\monitor_agent.exe",
+    "user_active": true
+  },
+  {
+    "time": "2026-09-29 15:49:48",
+    "process_name": "VsDebugConsole.exe",
+    "window_title": "C:\\Users\\user\\source\\repos\\TestCPP\\build\\Debug\\monitor_agent.exe",
+    "user_active": false
+  },
+  {
+    "time": "2026-09-29 15:49:53",
+    "process_name": "VsDebugConsole.exe",
+    "window_title": "C:\\Users\\user\\source\\repos\\TestCPP\\build\\Debug\\monitor_agent.exe",
+    "user_active": false
+  },
+  {
+    "time": "2026-09-29 15:49:58",
+    "process_name": "VsDebugConsole.exe",
+    "window_title": "Выбрать C:\\Users\\user\\source\\repos\\TestCPP\\build\\Debug\\monitor_agent.exe",
+    "user_active": true
+  },
+  {
+    "time": "2026-09-29 15:52:15",
+    "process_name": "explorer.exe",
+    "window_title": "тест - Результаты поиска в \"Загрузки\"",
+    "user_active": true
+  },
+  {
+    "time": "2026-09-29 15:52:20",
+    "process_name": "devenv.exe",
+    "window_title": "monitor_agent (выполняется) - main.cpp - Microsoft Visual Studio",
+    "user_active": true
+  },
+  {
+    "time": "2026-09-29 15:52:25",
+    "process_name": "devenv.exe",
+    "window_title": "monitor_agent (выполняется) - pending_metrics.json - Microsoft Visual Studio",
+    "user_active": true
+  },
+  {
+    "time": "2026-09-29 15:52:30",
+    "process_name": "devenv.exe",
+    "window_title": "monitor_agent (выполняется) - pending_metrics.json - Microsoft Visual Studio",
+    "user_active": true
+  },
+  {
+    "time": "2026-09-29 15:52:35",
+    "process_name": "devenv.exe",
+    "window_title": "monitor_agent (выполняется) - main.cpp - Microsoft Visual Studio",
+    "user_active": true
+  }
+]

@@ -1,0 +1,3 @@
+C:/Users/user/source/repos/TestCPP/build/CMakeFiles/monitor_agent.dir
+C:/Users/user/source/repos/TestCPP/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/user/source/repos/TestCPP/build/CMakeFiles/ZERO_CHECK.dir
